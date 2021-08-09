@@ -1,2 +1,1 @@
-# quote-app
-Random quote app
+This is my first project for the front end development certification on Free Code Camp. I used my skills in Bootstrap, jQuery and Javascript to build an app that randomly generates a quote, with the option to share to Twitter.
